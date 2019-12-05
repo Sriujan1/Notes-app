@@ -12,14 +12,14 @@ npm install
 
 # Commands to be used
 
-#add notes 
+#add notes =>
 node app.js add --title='Your_title' --body='Description of the note'
 
-#remove notes
+#remove notes =>
 node app.js remove --title='Your_title'
 
-#list notes
+#list notes =>
 node app.js list
 
-#read note
+#read note =>
 node app.js --title='Your_title'
